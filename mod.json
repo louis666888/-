@@ -1,0 +1,12 @@
+{
+	"name":"orginalcheat",
+	displayName:"原版作弊"
+	"description":
+	"简单的轻量作弊模组
+	ios可用
+	调出原版的作弊方块",
+	"author":"Mccreeper",
+	"version":"1.2",
+	"hidden": true,
+	"minGameVersion":"136"
+}
